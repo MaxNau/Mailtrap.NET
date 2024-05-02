@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Mailtrap.NET</Title>
-    <Version>1.1.0-alpha</Version>
+    <Version>1.1.4-alpha</Version>
     <Description>Mailtrap client for .NET</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
