@@ -9,7 +9,7 @@ You can add this library to your project using [NuGet][nuget].
 **Package Manager Console**
 Run the following command in the “Package Manager Console”:
 
-> PM> NuGet\Install-Package Mailtrap.NET -Version <version number>
+> PM> NuGet\Install-Package Mailtrap.NET -Version "version number"
 
 **Visual Studio**
 Right click to your project in Visual Studio, choose “Manage NuGet Packages” and search for ‘Mailtrap.NET’ and click ‘Install’.
@@ -18,7 +18,7 @@ Right click to your project in Visual Studio, choose “Manage NuGet Packages” and
 **.NET Core Command Line Interface**
 Run the following command from your favorite shell or terminal:
 
-> dotnet add package Mailtrap.NET --version <version number>
+> dotnet add package Mailtrap.NET --version "version number"
 
 ## Usage
 
